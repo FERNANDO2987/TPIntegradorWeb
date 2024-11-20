@@ -4,7 +4,7 @@ import java.util.List;
 
 import entidad.Cuenta;
 
-public class CuentaNeg {
+public interface CuentaNeg {
 	
 	public boolean agregarCuenta(Cuenta cuenta);
 	public List<Cuenta> obtenerCuentas();

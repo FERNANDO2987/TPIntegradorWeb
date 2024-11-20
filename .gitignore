@@ -80,3 +80,5 @@ node_modules/
 .yarn/
 .pnp.*
 /.metadata/
+.recommenders/caches/manual-mappings.json
+.recommenders/caches/identified-project-coordinates.json
